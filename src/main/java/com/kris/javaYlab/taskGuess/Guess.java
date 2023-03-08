@@ -14,19 +14,16 @@ public class Guess {
             int num = scanner.nextInt();
             N++;
             maxAttempts--;
-            if (maxAttempts == 0) {
-                System.out.println("Ты не угадал");
-                break;
-            }
             if (num == number) {
                 System.out.println("Ты угадал с " + N + " попытки");
-                break;
+                return;
             } else if (num > number) {
                 System.out.println("Мое число меньше! У тебя осталось " + maxAttempts + " попыток");
             } else {
                 System.out.println("Мое число больше! У тебя осталось " + maxAttempts + " попыток");
             }
         }
-        while (maxAttempts != 0);
+        while (maxAttempts > 0);
+        System.out.println("Ты не угадал");
     }
 }
