@@ -12,10 +12,7 @@ public class Solution {
 
     public static String toHex(int decimalNumber) {
         String hexNumber = "";
-        if (decimalNumber <= 0) {
-            return hexNumber;
-        }
-        while (decimalNumber != 0) {
+        while (decimalNumber > 0) {
             hexNumber = HEX.charAt(decimalNumber % 16) + hexNumber;
             decimalNumber /= 16;
         }
@@ -24,7 +21,7 @@ public class Solution {
 
     public static int toDecimal(String hexNumber) {
         int decimal = 0;
-        if (hexNumber == null) {
+        if (hexNumber == null || hexNumber.isEmpty()) {
             return decimal;
         }
         for (int i = 0; i < hexNumber.length(); i++) {
