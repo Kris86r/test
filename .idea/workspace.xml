@@ -8,7 +8,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Battery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1108/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1109/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1109/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequenceGenerator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequencesInpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequencesTest.java" afterDir="false" />
@@ -163,7 +164,7 @@
       <workItem from="1678979167154" duration="3934000" />
       <workItem from="1679048163150" duration="3757000" />
       <workItem from="1679149311597" duration="3677000" />
-      <workItem from="1679199700385" duration="4214000" />
+      <workItem from="1679199700385" duration="6171000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1678205656831</created>
@@ -459,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679205756185</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Load">
+      <created>1679211621303</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679211621303</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
