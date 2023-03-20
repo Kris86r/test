@@ -8,8 +8,11 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Battery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1126/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1126/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1127/BasicFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1127/Gnusmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1127/Jphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1127/SmartFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1127/SmartPhone.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequenceGenerator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequencesInpl.java" afterDir="false" />
@@ -167,7 +170,7 @@
       <workItem from="1679149311597" duration="3677000" />
       <workItem from="1679199700385" duration="12720000" />
       <workItem from="1679237084222" duration="4366000" />
-      <workItem from="1679302757100" duration="1113000" />
+      <workItem from="1679302757100" duration="2748000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1678205656831</created>
@@ -498,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679241621519</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Load">
+      <created>1679304029275</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1679304029275</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
