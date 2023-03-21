@@ -8,12 +8,16 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Battery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1128/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/LearningJUnit/ArithmeticMeanOfColumnInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequenceGenerator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequencesInpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskSequences/SequencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kris/LearningJUnit/ArithmeticMeanOfColumnInArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0906/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0906/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskPell/Pell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskPell/Pell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -56,6 +61,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Kris/JavaRush&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -64,13 +71,34 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Cosmoport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task11.task1133.Cosmoport" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kris.LearningJUnit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SequencesTest">
+    <configuration name="Pell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskPell.Pell" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task11.task1133.*" />
+          <option name="PATTERN" value="com.kris.javaYlab.taskPell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequencesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskSequences.SequencesTest" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.javaYlab.taskSequences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,52 +119,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniversityGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task11.task1123.UniversityGroup" />
+    <configuration name="ArithmeticMeanOfColumnInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task11.task1123.*" />
+          <option name="PATTERN" value="com.kris.LearningJUnit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.kris.LearningJUnit" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.LearningJUnit.ArithmeticMeanOfColumnInArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task11.task1122.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task11.task1122.Solution" />
+    <configuration name="ArithmeticMeanOfColumnInArrayTest.arithmeticMeanOfColumnTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task11.task1122.*" />
+          <option name="PATTERN" value="com.kris.LearningJUnit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task11.task1126.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task11.task1126.Solution" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task11.task1126.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.kris.LearningJUnit" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.LearningJUnit.ArithmeticMeanOfColumnInArrayTest" />
+      <option name="METHOD_NAME" value="arithmeticMeanOfColumnTest0" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequencesTest" />
+        <item itemvalue="Application.Pell" />
+        <item itemvalue="JUnit.ArithmeticMeanOfColumnInArrayTest" />
+        <item itemvalue="JUnit.ArithmeticMeanOfColumnInArrayTest.arithmeticMeanOfColumnTest0" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task11.task1126.Solution" />
-        <item itemvalue="Application.UniversityGroup" />
-        <item itemvalue="Application.com.javarush.task.pro.task11.task1122.Solution" />
-        <item itemvalue="Application.Cosmoport" />
       </list>
     </recent_temporary>
   </component>
@@ -165,14 +185,10 @@
       <workItem from="1679149311597" duration="3677000" />
       <workItem from="1679199700385" duration="12720000" />
       <workItem from="1679237084222" duration="4366000" />
-      <workItem from="1679302757100" duration="3104000" />
-    </task>
-    <task id="LOCAL-00001" summary="init">
-      <created>1678205656831</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678205656831</updated>
+      <workItem from="1679302757100" duration="3951000" />
+      <workItem from="1679321522922" duration="12926000" />
+      <workItem from="1679376699800" duration="3022000" />
+      <workItem from="1679409335238" duration="6412000" />
     </task>
     <task id="LOCAL-00002" summary="Load">
       <created>1678210296011</created>
@@ -510,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679305688047</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Load">
+      <created>1679305976759</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1679305976761</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
