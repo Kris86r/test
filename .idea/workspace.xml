@@ -9,15 +9,18 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1211/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Passenger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/TransportShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1225/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1225/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTestDrive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/ArrayListBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -86,13 +89,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task12.task1211.Solution">
-    <configuration name="SimpleDotComGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.DotComGame.SimpleDotComGame" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="ArrayListBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.draft.ArrayListBubbleSort" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.DotComGame.*" />
+          <option name="PATTERN" value="com.kris.draft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDotComTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.DotComGame.SimpleDotComTester" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.draft.BubbleSort" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.DotComGame.*" />
+          <option name="PATTERN" value="com.kris.draft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1209.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1225.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task12.task1209.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1225.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.ArrayListBubbleSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1211.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1210.Solution" />
-        <item itemvalue="Application.SimpleDotComGame" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.SimpleDotComTester" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +207,7 @@
       <workItem from="1679890269281" duration="5878000" />
       <workItem from="1679904711031" duration="4908000" />
       <workItem from="1679924968842" duration="5142000" />
-      <workItem from="1679987619091" duration="9407000" />
-    </task>
-    <task id="LOCAL-00014" summary="Load">
-      <created>1678452724606</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1678452724606</updated>
+      <workItem from="1679987619091" duration="17290000" />
     </task>
     <task id="LOCAL-00015" summary="Load">
       <created>1678453152033</created>
@@ -549,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680003080420</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Load">
+      <created>1680004585627</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1680004585627</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,6 +584,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kris/draft/ArrayListBubbleSort.java</url>
+          <line>17</line>
+          <properties class="com.kris.draft.ArrayListBubbleSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
