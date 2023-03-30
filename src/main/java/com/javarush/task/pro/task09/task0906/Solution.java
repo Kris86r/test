@@ -10,10 +10,7 @@ public class Solution {
 
     public static String toBinary(int decimalNumber) {
         String binary = "";
-        if (decimalNumber <= 0) {
-            return binary;
-        }
-        while (decimalNumber != 0) {
+        while (decimalNumber > 0) {
             binary = decimalNumber % 2 + binary;
             decimalNumber /= 2;
         }
@@ -21,14 +18,19 @@ public class Solution {
     }
 
     public static int toDecimal(String binaryNumber) {
+        if (binaryNumber == null || binaryNumber.isEmpty()) {
+            return 0;
+        }
         int decimal = 0;
-        if (binaryNumber == null || binaryNumber.equals("")) {
-            return decimal;
+        int i = binaryNumber.length() - 1;
+        for (char el : binaryNumber.toCharArray()) {
+            decimal += (el - '0') * Math.pow(2, i--);
         }
-        for (int i = 0; i < binaryNumber.length(); i++) {
-            int num = binaryNumber.length() - i - 1;
-            decimal += num * Math.pow(2, i);
-        }
+        //   for (int i = 0; i < binaryNumber.length(); i++) {
+        //       int num = binaryNumber.charAt(binaryNumber.length() - 1 - i) - '0';
+        //       decimal += num * Math.pow(2, i);
+        //   }
+
         return decimal;
     }
 }
