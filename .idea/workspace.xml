@@ -85,7 +85,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task12.task1220.Solution">
+  <component name="RunManager" selected="Application.Faculty">
     <configuration name="CheckingObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.draft.CheckingObject" />
       <module name="test" />
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0920.NimrodAi" />
+    <configuration name="Faculty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1221.Faculty" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0920.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1221.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Faculty" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1220.Solution" />
         <item itemvalue="Application.CheckingObject" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.PiratesWorkbench" />
-        <item itemvalue="Application.NimrodAi" />
       </list>
     </recent_temporary>
   </component>
