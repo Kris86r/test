@@ -9,19 +9,20 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1216/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Passenger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/TransportShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1227/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1227/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +85,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task12.task1227.Solution">
-    <configuration name="CharToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.sandbox.CharToNumber" />
+  <component name="RunManager" selected="Application.NimrodAi">
+    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0920.NimrodAi" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.sandbox.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task09.task0920.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NimrodAi" />
+        <item itemvalue="Application.PiratesWorkbench" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1227.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1215.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1213.Solution" />
-        <item itemvalue="Application.PiratesWorkbench" />
-        <item itemvalue="Application.CharToNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +207,8 @@
       <workItem from="1680063578165" duration="4374000" />
       <workItem from="1680098706439" duration="10060000" />
       <workItem from="1680164929153" duration="3564000" />
-      <workItem from="1680176026147" duration="6975000" />
-    </task>
-    <task id="LOCAL-00022" summary="Load">
-      <created>1678617627433</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1678617627433</updated>
+      <workItem from="1680176026147" duration="10083000" />
+      <workItem from="1680239513179" duration="7897000" />
     </task>
     <task id="LOCAL-00023" summary="Load">
       <created>1678618049742</created>
@@ -551,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680177233331</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Load">
+      <created>1680189170143</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1680189170145</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
