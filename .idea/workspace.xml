@@ -9,7 +9,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1216/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1218/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Passenger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/TransportShip.java" afterDir="false" />
@@ -20,7 +20,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" afterDir="false" />
     </list>
@@ -208,21 +207,7 @@
       <workItem from="1680098706439" duration="10060000" />
       <workItem from="1680164929153" duration="3564000" />
       <workItem from="1680176026147" duration="10083000" />
-      <workItem from="1680239513179" duration="7897000" />
-    </task>
-    <task id="LOCAL-00023" summary="Load">
-      <created>1678618049742</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1678618049742</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Load">
-      <created>1678619107491</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1678619107491</updated>
+      <workItem from="1680239513179" duration="8252000" />
     </task>
     <task id="LOCAL-00025" summary="Load">
       <created>1678620123160</created>
@@ -553,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680189170145</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Load">
+      <created>1680247580760</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1680247580763</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Load">
+      <created>1680247804164</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1680247804164</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
