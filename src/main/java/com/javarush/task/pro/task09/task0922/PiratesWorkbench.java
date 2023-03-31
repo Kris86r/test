@@ -30,17 +30,20 @@ public class PiratesWorkbench {
     }
 
     public static void corruptDB() {
+        int j = 0;
         for (int i = 0; i < piratesDB.length; i++) {
-            if (piratesDB[i].equals("b")) {
-                piratesDB[i] = "\b";
+            if (piratesDB[i].contains("b") && j < 2) {
+                piratesDB[i] = piratesDB[i].replaceAll("b", "\b");
+                j++;
             }
         }
     }
 
     public static void addTwoNames() {
         String[] array = Arrays.copyOf(piratesDB, piratesDB.length + 2);
-        array[12] = "Рыжий Амиго";
-        array[13] = "Одноглазый Диего";
+        array[array.length - 2] = "Рыжий Амиго";
+        array[array.length - 1] = "Одноглазый Диего";
+        piratesDB = array;
     }
 }
 
