@@ -22,7 +22,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0922/PiratesWorkbench.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PiratesWorkbench">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0920.NimrodAi" />
       <module name="test" />
@@ -153,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PiratesWorkbench" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.PiratesWorkbench" />
         <item itemvalue="Application.NimrodAi" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1227.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1215.Solution" />
@@ -209,14 +208,7 @@
       <workItem from="1680164929153" duration="3564000" />
       <workItem from="1680176026147" duration="10083000" />
       <workItem from="1680239513179" duration="10113000" />
-      <workItem from="1680267220902" duration="1083000" />
-    </task>
-    <task id="LOCAL-00027" summary="Load">
-      <created>1678696815995</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1678696815995</updated>
+      <workItem from="1680267220902" duration="1417000" />
     </task>
     <task id="LOCAL-00028" summary="Load">
       <created>1678697749408</created>
@@ -554,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680248158595</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Load">
+      <created>1680268361235</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1680268361237</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
