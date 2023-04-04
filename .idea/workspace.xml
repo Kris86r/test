@@ -15,14 +15,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1305/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1332/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotComBust.java" afterDir="false" />
@@ -217,14 +216,7 @@
       <workItem from="1680330411055" duration="2600000" />
       <workItem from="1680354491819" duration="7697000" />
       <workItem from="1680502254446" duration="11128000" />
-      <workItem from="1680613199010" duration="6039000" />
-    </task>
-    <task id="LOCAL-00040" summary="Load">
-      <created>1679069496551</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1679069496551</updated>
+      <workItem from="1680613199010" duration="6424000" />
     </task>
     <task id="LOCAL-00041" summary="Load">
       <created>1679070156767</created>
@@ -562,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680620431811</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Load">
+      <created>1680621634815</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1680621634815</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
