@@ -15,9 +15,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1331/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/RemoveFromList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -89,13 +89,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task13.task1331.Solution">
-    <configuration name="IteratorExammpleForRemoveElementInArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.draft.IteratorExammpleForRemoveElementInArrayList" />
+  <component name="RunManager" selected="Application.RemoveFromList">
+    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0920.NimrodAi" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.draft.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task09.task0920.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0920.NimrodAi" />
+    <configuration name="RemoveFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.draft.RemoveFromList" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0920.*" />
+          <option name="PATTERN" value="com.kris.draft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveFromList" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1331.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1302.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.NimrodAi" />
-        <item itemvalue="Application.IteratorExammpleForRemoveElementInArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -217,14 +217,7 @@
       <workItem from="1680330411055" duration="2600000" />
       <workItem from="1680354491819" duration="7697000" />
       <workItem from="1680502254446" duration="11128000" />
-      <workItem from="1680613199010" duration="2666000" />
-    </task>
-    <task id="LOCAL-00036" summary="Load">
-      <created>1678985776709</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1678985776709</updated>
+      <workItem from="1680613199010" duration="4287000" />
     </task>
     <task id="LOCAL-00037" summary="Load">
       <created>1678986154180</created>
@@ -562,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680614513318</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Load">
+      <created>1680618086238</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1680618086238</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
