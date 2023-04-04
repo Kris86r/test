@@ -15,13 +15,17 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/IteratorExammpleForRemoveElementInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1301/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0920/NimrodAi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotComBust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +88,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NimrodAi">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Faculty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1221.Faculty" />
       <module name="test" />
@@ -124,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task12.task1220.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1220.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1301.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task12.task1220.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task13.task1301.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.NimrodAi" />
         <item itemvalue="Application.IteratorExammpleForRemoveElementInArrayList" />
         <item itemvalue="Application.com.javarush.task.pro.task12.task1222.Solution" />
         <item itemvalue="Application.Faculty" />
-        <item itemvalue="Application.com.javarush.task.pro.task12.task1220.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -210,21 +214,9 @@
       <workItem from="1680239513179" duration="10113000" />
       <workItem from="1680267220902" duration="5398000" />
       <workItem from="1680330411055" duration="2600000" />
-      <workItem from="1680354491819" duration="6605000" />
-    </task>
-    <task id="LOCAL-00032" summary="Load">
-      <created>1678984203807</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1678984203808</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Load">
-      <created>1678984233345</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1678984233345</updated>
+      <workItem from="1680354491819" duration="7697000" />
+      <workItem from="1680502254446" duration="11128000" />
+      <workItem from="1680613199010" duration="618000" />
     </task>
     <task id="LOCAL-00034" summary="Load">
       <created>1678985156991</created>
@@ -555,7 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680274180466</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Load">
+      <created>1680361558433</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1680361558436</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Load">
+      <created>1680361935045</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1680361935045</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
