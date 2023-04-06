@@ -15,7 +15,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1307/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1308/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
@@ -218,14 +218,7 @@
       <workItem from="1680354491819" duration="7697000" />
       <workItem from="1680502254446" duration="11128000" />
       <workItem from="1680613199010" duration="6652000" />
-      <workItem from="1680788815436" duration="1744000" />
-    </task>
-    <task id="LOCAL-00043" summary="Load">
-      <created>1679211621303</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1679211621303</updated>
+      <workItem from="1680788815436" duration="2755000" />
     </task>
     <task id="LOCAL-00044" summary="Load">
       <created>1679213613713</created>
@@ -563,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680789524093</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Load">
+      <created>1680790590823</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1680790590823</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
