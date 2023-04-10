@@ -15,16 +15,15 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Core.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1334/Rewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1334/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1334/Voter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/RepeatExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotComBust.java" afterDir="false" />
@@ -91,13 +90,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task13.task1334.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1333.Solution" />
+  <component name="RunManager" selected="Application.RepeatExample">
+    <configuration name="RepeatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.draft.RepeatExample" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task13.task1333.*" />
+          <option name="PATTERN" value="com.kris.draft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task13.task1304.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1304.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1333.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task13.task1304.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task13.task1333.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatExample" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1334.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1311.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1310.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task13.task1304.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -223,14 +222,8 @@
       <workItem from="1680788815436" duration="5784000" />
       <workItem from="1680876837312" duration="2401000" />
       <workItem from="1680948291725" duration="4455000" />
-      <workItem from="1681129872790" duration="4624000" />
-    </task>
-    <task id="LOCAL-00051" summary="Load">
-      <created>1679415870672</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1679415870675</updated>
+      <workItem from="1681129872790" duration="10792000" />
+      <workItem from="1681140940353" duration="416000" />
     </task>
     <task id="LOCAL-00052" summary="Load">
       <created>1679582785014</created>
@@ -568,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680952346343</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Load">
+      <created>1681134765303</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1681134765305</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
