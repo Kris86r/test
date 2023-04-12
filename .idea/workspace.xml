@@ -19,7 +19,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1313/StringLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1317/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1318/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1318/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
@@ -95,7 +96,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Month">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task13.task1318.Solution">
     <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1317.Month" />
       <module name="test" />
@@ -148,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task13.task1335.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1335.Solution" />
+    <configuration name="com.javarush.task.pro.task13.task1318.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1318.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task13.task1335.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task13.task1318.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task13.task1318.Solution" />
         <item itemvalue="Application.Month" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1316.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task13.task1335.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +232,7 @@
       <workItem from="1681140940353" duration="1146000" />
       <workItem from="1681197618308" duration="7626000" />
       <workItem from="1681275325766" duration="11596000" />
-      <workItem from="1681304989935" duration="1617000" />
-    </task>
-    <task id="LOCAL-00056" summary="Load">
-      <created>1679675779542</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1679675779542</updated>
+      <workItem from="1681304989935" duration="3963000" />
     </task>
     <task id="LOCAL-00057" summary="Load">
       <created>1679677285399</created>
@@ -576,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681285247233</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Load">
+      <created>1681306957949</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1681306957951</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
