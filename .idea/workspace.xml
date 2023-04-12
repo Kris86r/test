@@ -19,8 +19,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1313/StringLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1315/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1315/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1316/JavarushQuest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1316/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
@@ -29,6 +29,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1315/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1315/Season.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/OldSimpleDotCom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotComBust.java" afterDir="false" />
@@ -96,7 +97,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task13.task1316.Solution">
     <configuration name="RepeatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.draft.RepeatExample" />
       <module name="test" />
@@ -136,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task13.task1334.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1334.Solution" />
+    <configuration name="com.javarush.task.pro.task13.task1316.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task13.task1316.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task13.task1334.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task13.task1316.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task13.task1316.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1335.Solution" />
         <item itemvalue="Application.RepeatExample" />
-        <item itemvalue="Application.com.javarush.task.pro.task13.task1334.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +232,7 @@
       <workItem from="1681129872790" duration="10792000" />
       <workItem from="1681140940353" duration="1146000" />
       <workItem from="1681197618308" duration="7626000" />
-      <workItem from="1681275325766" duration="5922000" />
-    </task>
-    <task id="LOCAL-00054" summary="Load">
-      <created>1679583493532</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1679583493532</updated>
+      <workItem from="1681275325766" duration="6716000" />
     </task>
     <task id="LOCAL-00055" summary="Load">
       <created>1679675442275</created>
@@ -576,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681280641080</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Load">
+      <created>1681284195255</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1681284195255</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
