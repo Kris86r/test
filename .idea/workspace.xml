@@ -19,8 +19,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1313/StringLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1318/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1318/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1319/Month.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
@@ -232,14 +231,8 @@
       <workItem from="1681140940353" duration="1146000" />
       <workItem from="1681197618308" duration="7626000" />
       <workItem from="1681275325766" duration="11596000" />
-      <workItem from="1681304989935" duration="3963000" />
-    </task>
-    <task id="LOCAL-00057" summary="Load">
-      <created>1679677285399</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1679677285399</updated>
+      <workItem from="1681304989935" duration="4746000" />
+      <workItem from="1681376863895" duration="1759000" />
     </task>
     <task id="LOCAL-00058" summary="Load">
       <created>1679756600767</created>
@@ -577,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681306957951</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Load">
+      <created>1681309168604</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1681309168605</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
