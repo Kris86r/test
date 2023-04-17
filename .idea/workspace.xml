@@ -19,7 +19,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotCom.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DraftDotComBust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/Repeat1317/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/Repeat1335/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/Repeat1335/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -30,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotCom.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/DotComBust.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/DotComGame/SimpleDotComTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/draft/Repeat0508.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/draft/Repeat0508.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,21 +236,7 @@
       <workItem from="1681395766000" duration="9049000" />
       <workItem from="1681451058320" duration="7712000" />
       <workItem from="1681715874617" duration="5801000" />
-      <workItem from="1681732358564" duration="7386000" />
-    </task>
-    <task id="LOCAL-00067" summary="Load">
-      <created>1680165148717</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1680165148719</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Load">
-      <created>1680176429028</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1680176429030</updated>
+      <workItem from="1681732358564" duration="9249000" />
     </task>
     <task id="LOCAL-00069" summary="Load">
       <created>1680176575780</created>
@@ -579,7 +567,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681736685470</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Load">
+      <created>1681740428919</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1681740428919</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Load">
+      <created>1681740502433</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1681740502433</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
