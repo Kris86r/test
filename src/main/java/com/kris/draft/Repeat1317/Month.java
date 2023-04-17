@@ -2,7 +2,6 @@ package com.kris.draft.Repeat1317;
 
 import java.util.Arrays;
 
-
 public class Month {
     private static final Month JANUARY = new Month(1);
     private static final Month FEBRUARY = new Month(2);
