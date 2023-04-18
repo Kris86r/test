@@ -12,11 +12,11 @@ public class OldSimpleDotCom {
         int num = Integer.parseInt(userGuess);
        while ( numOfHits<locationCells.length) {
            if (num == locationCells[numOfHits]) {
-               numOfHits++;
-               if (numOfHits==3) {
+               numOfHits--;
+               if (numOfHits==0) {
                    return "Потопил";
                } else {
-                   return "Потопил";
+                   return "Попал";
                }
            } else {
                return "Мимо";
@@ -24,4 +24,6 @@ public class OldSimpleDotCom {
         }
         return userGuess;
     }
+
+
 }
