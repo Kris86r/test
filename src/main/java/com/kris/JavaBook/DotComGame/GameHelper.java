@@ -46,7 +46,7 @@ public class GameHelper {
 
         while ((!success & attempts++ < 200)) {   // главный поисковый цикл (32)
             location = (int) (Math.random() * gridSize);   // получаем случайную стартовую точку
-            System.out.print("пробуем " + location);
+           // System.out.print("пробуем " + location);
             int x = 0;   // энная позиция в "сайте", который нужно разместить
             success = true;   // предполагаем успешный исход
             while (success && x < comSize) {   // ищем соседнюю неиспользованную ячейку
@@ -60,7 +60,7 @@ public class GameHelper {
                         success = false;   // неудача
                     }
                 } else {   // нашли уже использующееся местоположение
-                    System.out.print("используется " + location);
+                  //  System.out.print("используется " + location);
                     success = false;   // неудача
                 }
             }
@@ -69,7 +69,7 @@ public class GameHelper {
         int x = 0;   // переводим местоположение в символьные координаты
         int row = 0;
         int column = 0;
-        System.out.println("\n");
+       // System.out.println("\n");
         while (x < comSize) {
             grid[coords[x]] = 1;   // помечаем ячейки на главной сетке как "использованные"
             row = (int) (coords[x] / gridLength);   // получаем значение строки
@@ -78,9 +78,9 @@ public class GameHelper {
 
             alphaCells.add(temp.concat(Integer.toString(row)));
             x++;
-            System.out.print(" coord " + x + " = " + alphaCells.get(x - 1));
+          //  System.out.print(" coord " + x + " = " + alphaCells.get(x - 1));
         }
-        System.out.println("\n");
+      //  System.out.println("\n");
         return alphaCells;
     }
 }
