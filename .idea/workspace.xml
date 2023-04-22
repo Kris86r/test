@@ -17,12 +17,16 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/InterfacesAndPolimorf/Acts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/InterfacesAndPolimorf/Clowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/InterfacesAndPolimorf/Nose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/InterfacesAndPolimorf/Of76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/InterfacesAndPolimorf/Picasso.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task09/task0908/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,13 +90,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="MonsterTestDrive (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.MonsterTestDrive" />
+  <component name="RunManager" selected="Application.Of76">
+    <configuration name="Acts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.InterfacesAndPolimorf.Acts" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.InterfacesAndPolimorf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonsterTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.MonsterTestDrive" />
+    <configuration name="Of76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.InterfacesAndPolimorf.Of76" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Boats.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.InterfacesAndPolimorf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,6 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Of76" />
+        <item itemvalue="Application.Acts" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.TestBoats" />
         <item itemvalue="Application.MonsterTestDrive (3)" />
@@ -258,14 +264,8 @@
       <workItem from="1681978137021" duration="1174000" />
       <workItem from="1682003385911" duration="7086000" />
       <workItem from="1682053245278" duration="5005000" />
-      <workItem from="1682088452772" duration="10149000" />
-    </task>
-    <task id="LOCAL-00073" summary="Load">
-      <created>1680247804164</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1680247804164</updated>
+      <workItem from="1682088452772" duration="10803000" />
+      <workItem from="1682151211375" duration="2465000" />
     </task>
     <task id="LOCAL-00074" summary="Load">
       <created>1680247986964</created>
@@ -603,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682089499371</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Load">
+      <created>1682098961143</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1682098961143</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
