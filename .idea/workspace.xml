@@ -17,8 +17,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/StaticSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/StaticTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/FullMoon.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -88,13 +87,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticTests">
-    <configuration name="Iphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1010.Iphone" />
+  <component name="RunManager" selected="Application.FullMoon">
+    <configuration name="FullMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.FullMoon" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1010.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0921.NimrodAi" />
+    <configuration name="Iphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1010.Iphone" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0921.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1010.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FullMoon" />
         <item itemvalue="Application.StaticTests" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.Pepl" />
         <item itemvalue="Application.Iphone" />
-        <item itemvalue="Application.NimrodAi" />
       </list>
     </recent_temporary>
   </component>
@@ -240,21 +239,7 @@
       <workItem from="1682151211375" duration="5468000" />
       <workItem from="1682320859234" duration="3895000" />
       <workItem from="1682353254125" duration="933000" />
-      <workItem from="1682431865897" duration="1508000" />
-    </task>
-    <task id="LOCAL-00076" summary="Load">
-      <created>1680268361235</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1680268361237</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Load">
-      <created>1680268681432</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1680268681433</updated>
+      <workItem from="1682431865897" duration="3127000" />
     </task>
     <task id="LOCAL-00078" summary="Load">
       <created>1680273671762</created>
@@ -585,7 +570,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682153923222</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Load">
+      <created>1682433412596</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433412597</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Load">
+      <created>1682433458733</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433458733</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
