@@ -1,6 +1,6 @@
 package com.kris.JavaBook;
 
-public class StaticTests extends StaticSuper{
+public class StaticTests extends StaticSuper {
     static int rand;
 
     static {
