@@ -17,7 +17,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/FullMoon.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -87,7 +86,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FullMoon">
+  <component name="RunManager" selected="Application.NimrodAi">
     <configuration name="FullMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.FullMoon" />
       <module name="test" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1010.Iphone" />
+    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0921.NimrodAi" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1010.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task09.task0921.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NimrodAi" />
+        <item itemvalue="Application.Pepl" />
         <item itemvalue="Application.FullMoon" />
         <item itemvalue="Application.StaticTests" />
         <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.Pepl" />
-        <item itemvalue="Application.Iphone" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +238,8 @@
       <workItem from="1682151211375" duration="5468000" />
       <workItem from="1682320859234" duration="3895000" />
       <workItem from="1682353254125" duration="933000" />
-      <workItem from="1682431865897" duration="3127000" />
-    </task>
-    <task id="LOCAL-00078" summary="Load">
-      <created>1680273671762</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1680273671762</updated>
+      <workItem from="1682431865897" duration="5521000" />
+      <workItem from="1682513497412" duration="5501000" />
     </task>
     <task id="LOCAL-00079" summary="Load">
       <created>1680273918434</created>
@@ -584,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682433458733</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Load">
+      <created>1682435132503</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1682435132503</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,11 +602,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/kris/JavaBook/EchoTestDrive.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Mix4.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/kris/JavaBook/MixFor5.java</url>

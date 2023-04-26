@@ -21,13 +21,15 @@ public class NimrodAi {
     }
 
     public static void replaceTarget(PastryLoader[] pastryLoaders) {
-        for (int i = 0; i < pastryLoaders.length; i++) {
-            if (pastryLoaders[i].toString().toLowerCase().contains("Nimrod")) {
-                pastryLoaders[i].toString().replace("Nimrod", "pirate ship");
+        for (PastryLoader pastryLoader : pastryLoaders) {
+            for (String[][] array : pastryLoader.memory) {
+                for (String[] row : array) {
+                    for (int i = 0; i < row.length; i++) {
+                        row[i] = row[i].toLowerCase().replaceAll("nimrod", "pirate ship");
+                    }
+                }
             }
         }
-        //  String[] str = new String[]{String.format(Arrays.toString(pastryLoaders))
-        //          .replaceAll("Nimrod".toLowerCase(), "pirate ship")};
     }
 }
 
