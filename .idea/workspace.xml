@@ -17,7 +17,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/MiniMiniMusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/ExTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/MiniMusicCmdLine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -86,9 +87,35 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MiniMiniMusicApp">
-    <configuration name="FullMoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.FullMoon" />
+  <component name="RunManager" selected="Application.ExTestDrive">
+    <configuration name="Battery2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.draft.Battery2" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.draft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.ExTestDrive" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.ExTestDrive" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -113,35 +140,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NimrodAi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0921.NimrodAi" />
+    <configuration name="MiniMusicCmdLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.MiniMusicCmdLine" />
       <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0921.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pepl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1022.Pepl" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1022.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.StaticTests" />
-      <module name="test" />
+      <option name="PROGRAM_PARAMETERS" value="102,30" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kris.JavaBook.*" />
@@ -152,13 +154,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ExTestDrive" />
+      <item itemvalue="Application.ExTestDrive (1)" />
+      <item itemvalue="Application.Battery2" />
+      <item itemvalue="Application.MiniMiniMusicApp" />
+      <item itemvalue="Application.MiniMusicCmdLine" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExTestDrive" />
+        <item itemvalue="Application.ExTestDrive (1)" />
+        <item itemvalue="Application.MiniMusicCmdLine" />
         <item itemvalue="Application.MiniMiniMusicApp" />
-        <item itemvalue="Application.NimrodAi" />
-        <item itemvalue="Application.Pepl" />
-        <item itemvalue="Application.FullMoon" />
-        <item itemvalue="Application.StaticTests" />
+        <item itemvalue="Application.Battery2" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +248,9 @@
       <workItem from="1682320859234" duration="3895000" />
       <workItem from="1682353254125" duration="933000" />
       <workItem from="1682431865897" duration="5521000" />
-      <workItem from="1682513497412" duration="6854000" />
-    </task>
-    <task id="LOCAL-00080" summary="Load">
-      <created>1680274180466</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1680274180466</updated>
+      <workItem from="1682513497412" duration="12554000" />
+      <workItem from="1682570284360" duration="4129000" />
+      <workItem from="1682663288990" duration="2004000" />
     </task>
     <task id="LOCAL-00081" summary="Load">
       <created>1680361558433</created>
@@ -584,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682520918153</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Load">
+      <created>1682525551608</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525551609</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
