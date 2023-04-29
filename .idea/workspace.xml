@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Pepl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task10/task1022/Robot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task11/task1133/Cosmoport.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Passenger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/Solution.java" afterDir="false" />
@@ -17,6 +14,15 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1226/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantMoments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/MyDrawPanel/MyDrawPanelA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/MyDrawPanel/MyDrawPanelB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/MyDrawPanel/MyDrawPanelC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/MyDrawPanel/MyDrawPanelD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/MyDrawPanel/MyDrawPanelE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/SimpleGui3C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/SimpleGuil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/SimpleGuilB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -85,13 +91,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pepl">
-    <configuration name="ExTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.ExTestDrive" />
+  <component name="RunManager" selected="Application.SimpleGui3C">
+    <configuration name="MyDrawPanelB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.MyDrawPanel.MyDrawPanelB" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.GUI.MyDrawPanel.MyDrawPanelA" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,13 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.ExTestDrive" />
+    <configuration name="SimpleGui3C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.SimpleGui3C" />
       <module name="test" />
-      <option name="PROGRAM_PARAMETERS" value="yes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniMiniMusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.MiniMiniMusicApp" />
+    <configuration name="SimpleGuil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.SimpleGuil" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniMusicCmdLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.MiniMusicCmdLine" />
+    <configuration name="SimpleGuilB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.SimpleGuilB" />
       <module name="test" />
-      <option name="PROGRAM_PARAMETERS" value="40 70" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pepl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1022.Pepl" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1226.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1022.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1226.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pepl" />
-      <item itemvalue="Application.ExTestDrive" />
-      <item itemvalue="Application.ExTestDrive (1)" />
-      <item itemvalue="Application.MiniMiniMusicApp" />
-      <item itemvalue="Application.MiniMusicCmdLine" />
+      <item itemvalue="Application.MyDrawPanelB" />
+      <item itemvalue="Application.SimpleGui3C" />
+      <item itemvalue="Application.SimpleGuil" />
+      <item itemvalue="Application.SimpleGuilB" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pepl" />
-        <item itemvalue="Application.ExTestDrive" />
-        <item itemvalue="Application.MiniMusicCmdLine" />
-        <item itemvalue="Application.ExTestDrive (1)" />
-        <item itemvalue="Application.MiniMiniMusicApp" />
+        <item itemvalue="Application.SimpleGui3C" />
+        <item itemvalue="Application.MyDrawPanelB" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SimpleGuilB" />
+        <item itemvalue="Application.SimpleGuil" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +253,10 @@
       <workItem from="1682431865897" duration="5521000" />
       <workItem from="1682513497412" duration="12554000" />
       <workItem from="1682570284360" duration="4129000" />
-      <workItem from="1682663288990" duration="7370000" />
-    </task>
-    <task id="LOCAL-00082" summary="Load">
-      <created>1680361935045</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1680361935045</updated>
+      <workItem from="1682663288990" duration="7771000" />
+      <workItem from="1682688525568" duration="7947000" />
+      <workItem from="1682748337363" duration="10346000" />
+      <workItem from="1682767070138" duration="6175000" />
     </task>
     <task id="LOCAL-00083" summary="Load">
       <created>1680613985543</created>
@@ -594,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682669203332</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Load">
+      <created>1682676777545</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1682676777547</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
