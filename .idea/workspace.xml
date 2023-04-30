@@ -121,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="Button2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.MyDrawPanel.Button2" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.Button2" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.GUI.MyDrawPanel.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

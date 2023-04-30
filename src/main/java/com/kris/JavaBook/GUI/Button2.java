@@ -1,6 +1,4 @@
-package com.kris.JavaBook.GUI.MyDrawPanel;
-
-import com.kris.JavaBook.GUI.Button;
+package com.kris.JavaBook.GUI;
 
 import javax.swing.*;
 import java.awt.*;
