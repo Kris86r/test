@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/TransportShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantThings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/TextArea.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -80,8 +80,8 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Button2">
-    <configuration name="Animate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TextArea">
+    <configuration name="Animate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.Animate" />
       <module name="test" />
       <extension name="coverage">
@@ -133,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.InnerButton" />
+    <configuration name="TextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.TextArea" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -147,19 +147,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TextArea" />
       <item itemvalue="Application.Animate" />
       <item itemvalue="Application.Animate (1)" />
       <item itemvalue="Application.Button" />
       <item itemvalue="Application.Button2" />
-      <item itemvalue="Application.InnerButton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextArea" />
         <item itemvalue="Application.Button2" />
         <item itemvalue="Application.Button" />
         <item itemvalue="Application.Animate" />
         <item itemvalue="Application.Animate (1)" />
-        <item itemvalue="Application.InnerButton" />
       </list>
     </recent_temporary>
   </component>
@@ -247,14 +247,8 @@
       <workItem from="1682748337363" duration="10346000" />
       <workItem from="1682767070138" duration="6995000" />
       <workItem from="1682831749107" duration="4885000" />
-      <workItem from="1682851102516" duration="11882000" />
-    </task>
-    <task id="LOCAL-00091" summary="Load">
-      <created>1680789524091</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1680789524093</updated>
+      <workItem from="1682851102516" duration="11970000" />
+      <workItem from="1682920333209" duration="925000" />
     </task>
     <task id="LOCAL-00092" summary="Load">
       <created>1680790590823</created>
@@ -592,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682865757306</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Load">
+      <created>1682869191268</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1682869191268</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
