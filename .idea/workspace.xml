@@ -17,7 +17,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/BeatBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/BeatBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantThings" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantThings" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,35 +80,9 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BeatBox">
-    <configuration name="Animate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.Animate" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Cosmoport">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.BeatBox" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Button" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.Button" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -134,6 +107,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cosmoport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task11.task1133.Cosmoport" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task11.task1133.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1224.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1224.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.TextArea" />
       <module name="test" />
@@ -148,19 +147,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Cosmoport" />
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.BeatBox" />
       <item itemvalue="Application.TextArea" />
-      <item itemvalue="Application.Animate" />
-      <item itemvalue="Application.Button" />
       <item itemvalue="Application.Button2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cosmoport" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.BeatBox" />
         <item itemvalue="Application.TextArea" />
         <item itemvalue="Application.Button2" />
-        <item itemvalue="Application.Button" />
-        <item itemvalue="Application.Animate" />
       </list>
     </recent_temporary>
   </component>
@@ -250,14 +249,7 @@
       <workItem from="1682831749107" duration="4885000" />
       <workItem from="1682851102516" duration="11970000" />
       <workItem from="1682920333209" duration="7207000" />
-      <workItem from="1682955670063" duration="1818000" />
-    </task>
-    <task id="LOCAL-00094" summary="Load">
-      <created>1680877216151</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1680877216153</updated>
+      <workItem from="1682955670063" duration="2996000" />
     </task>
     <task id="LOCAL-00095" summary="Load">
       <created>1680950760789</created>
@@ -595,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682928068787</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="Load">
+      <created>1682957528542</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1682957528544</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
