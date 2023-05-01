@@ -11,12 +11,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task12/task1223/TransportShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/BeatBox.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/BeatBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/BeatBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantThings" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/ImportantThings" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,14 +249,8 @@
       <workItem from="1682767070138" duration="6995000" />
       <workItem from="1682831749107" duration="4885000" />
       <workItem from="1682851102516" duration="11970000" />
-      <workItem from="1682920333209" duration="7116000" />
-    </task>
-    <task id="LOCAL-00093" summary="Load">
-      <created>1680791601373</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1680791601373</updated>
+      <workItem from="1682920333209" duration="7207000" />
+      <workItem from="1682955670063" duration="1818000" />
     </task>
     <task id="LOCAL-00094" summary="Load">
       <created>1680877216151</created>
@@ -593,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682921421031</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="Load">
+      <created>1682928068787</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1682928068787</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
