@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task13/task1314/StringLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Serializable/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Serializable/GameSaverTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
@@ -75,7 +75,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task13.task1314.Solution">
+  <component name="RunManager" selected="Application.GameSaverTest">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.BeatBox" />
       <module name="test" />
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1224.Solution" />
+    <configuration name="GameSaverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Serializable.GameSaverTest" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task12.task1224.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.Serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.TextArea" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task12.task1224.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.GUI.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task12.task1224.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +142,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.GameSaverTest" />
       <item itemvalue="Application.com.javarush.task.pro.task13.task1314.Solution" />
       <item itemvalue="Application.Cosmoport" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.BeatBox" />
-      <item itemvalue="Application.TextArea" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameSaverTest" />
         <item itemvalue="Application.com.javarush.task.pro.task13.task1314.Solution" />
         <item itemvalue="Application.Cosmoport" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.BeatBox" />
-        <item itemvalue="Application.TextArea" />
       </list>
     </recent_temporary>
   </component>
@@ -246,14 +246,8 @@
       <workItem from="1682920333209" duration="7207000" />
       <workItem from="1682955670063" duration="6698000" />
       <workItem from="1683005058116" duration="1917000" />
-      <workItem from="1683008677808" duration="5034000" />
-    </task>
-    <task id="LOCAL-00098" summary="Load">
-      <created>1680952315486</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1680952315487</updated>
+      <workItem from="1683008677808" duration="5283000" />
+      <workItem from="1683033383042" duration="2277000" />
     </task>
     <task id="LOCAL-00099" summary="Load">
       <created>1680952346343</created>
@@ -591,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683006963937</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Load">
+      <created>1683016171705</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1683016171707</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
