@@ -55,6 +55,7 @@ public class QuizCardBuilder {
         mainPanel.add(aLabel);
         mainPanel.add(aScroller);
         mainPanel.add(nextButton);
+        nextButton.addActionListener(new NextCardListener());
         JMenuBar menuBar = new JMenuBar();
         JMenu fileMenu = new JMenu("File");
         JMenuItem newMenuItem = new JMenu("New");            // Мы создаем обьект JMenuBar и добавляем в него
