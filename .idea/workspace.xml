@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/Serializable/QuizCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/Serializable/QuizCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/Serializable/QuizCardPlayer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskRateLimitedPrinter/RateLimitedPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/Serializable/QuizCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/GUI/Serializable/QuizCardBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,14 +246,8 @@
       <workItem from="1682955670063" duration="6698000" />
       <workItem from="1683005058116" duration="1917000" />
       <workItem from="1683008677808" duration="5283000" />
-      <workItem from="1683033383042" duration="10483000" />
-    </task>
-    <task id="LOCAL-00100" summary="Load">
-      <created>1681134765303</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1681134765305</updated>
+      <workItem from="1683033383042" duration="10779000" />
+      <workItem from="1683116754357" duration="2549000" />
     </task>
     <task id="LOCAL-00101" summary="Load">
       <created>1681141486440</created>
@@ -593,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683035967392</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Load">
+      <created>1683044393111</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1683044393111</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
