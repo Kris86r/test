@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1406/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculatable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
@@ -75,7 +74,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task14.task1406.Solution">
+  <component name="RunManager" selected="Application.Numbers">
     <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskComplexNumbers.Numbers" />
       <module name="test" />
@@ -150,11 +149,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1406.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1419.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1403.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -251,14 +250,7 @@
       <workItem from="1683116754357" duration="11716000" />
       <workItem from="1683181924591" duration="3456000" />
       <workItem from="1683186692848" duration="2458000" />
-      <workItem from="1683202997905" duration="4417000" />
-    </task>
-    <task id="LOCAL-00108" summary="Load">
-      <created>1681384286989</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1681384286990</updated>
+      <workItem from="1683202997905" duration="6088000" />
     </task>
     <task id="LOCAL-00109" summary="Load">
       <created>1681397655616</created>
@@ -596,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683207756594</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="Load">
+      <created>1683213361910</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1683213361910</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

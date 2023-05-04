@@ -2,19 +2,20 @@ package com.kris.javaYlab.taskComplexNumbers;
 
 public class Numbers {
     public static void main(String[] args) {
-
-        Complex complexNumber = new Complex(3.1);
-        Complex complexNumbers = new Complex(5.4, 2.7);
         Calculate calculate = new Calculate();
-        double sum = calculate.summation(complexNumbers.getRealNumber(), complexNumbers.getImaginaryNumber());
-        double sub = calculate.subtraction(complexNumbers.getRealNumber(), complexNumbers.getImaginaryNumber());
-        double mlpl = calculate.multiplication(complexNumbers.getRealNumber(), complexNumbers.getImaginaryNumber());
-        double abs = calculate.moduleReceivingOperation(complexNumber.getRealNumber());
-        String str = calculate.toString(complexNumber.getRealNumber());
-        System.out.println(sum);
-        System.out.println(sub);
-        System.out.println(mlpl);
-        System.out.println(abs);
-        System.out.println(str);
+        Complex complexNumber = new Complex(3.4444);
+        Complex complexNumber2 = new Complex(0, 2.774);
+        Complex complexNumber3 = new Complex(1.3, 3.6);
+        Complex complexNumber4 = new Complex(0);
+
+        System.out.println(complexNumber);
+        System.out.println(complexNumber2);
+        System.out.println(complexNumber3);
+        System.out.println(complexNumber4);
+        System.out.println();
+        System.out.println(calculate.addition(complexNumber2, complexNumber3));
+        System.out.println(calculate.subtraction(complexNumber3, complexNumber2));
+        System.out.println(calculate.multiplication(complexNumber2, complexNumber3));
+        System.out.println(calculate.getModule(complexNumber3));
     }
 }
