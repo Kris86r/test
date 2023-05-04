@@ -9,9 +9,9 @@ public class RateLimitedPrinter {
     }
 
     public void print(String message) {
-        if (System.currentTimeMillis() >= timeLastPrint + interval) {
+        if (System.currentTimeMillis() >= timeLastPrint + this.interval) {
             System.out.println(message);
-            timeLastPrint = System.currentTimeMillis();
+            this.timeLastPrint = System.currentTimeMillis();
         }
     }
 }
