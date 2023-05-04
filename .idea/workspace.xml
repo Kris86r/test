@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1402/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1403/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculatable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/javaYlab/taskComplexNumbers/Complex.java" afterDir="false" />
@@ -75,7 +75,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task14.task1403.Solution">
     <configuration name="DungeonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.DungeonTest" />
       <module name="test" />
@@ -95,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kris.javaYlab.taskComplexNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuizCardPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.GUI.Serializable.QuizCardPlayer" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.GUI.Serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,20 +128,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.javarush.task.pro.task14.task1403.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1403.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1403.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.com.javarush.task.pro.task14.task1403.Solution" />
       <item itemvalue="Application.DungeonTest" />
       <item itemvalue="Application.Numbers" />
       <item itemvalue="Application.SequencesTest" />
-      <item itemvalue="Application.QuizCardPlayer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task14.task1403.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.DungeonTest" />
         <item itemvalue="Application.SequencesTest" />
-        <item itemvalue="Application.QuizCardPlayer" />
       </list>
     </recent_temporary>
   </component>
@@ -251,14 +251,7 @@
       <workItem from="1683116754357" duration="11716000" />
       <workItem from="1683181924591" duration="3456000" />
       <workItem from="1683186692848" duration="2458000" />
-      <workItem from="1683202997905" duration="1801000" />
-    </task>
-    <task id="LOCAL-00104" summary="Load">
-      <created>1681285247233</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1681285247233</updated>
+      <workItem from="1683202997905" duration="2477000" />
     </task>
     <task id="LOCAL-00105" summary="Load">
       <created>1681306957949</created>
@@ -596,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683185532966</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Load">
+      <created>1683206184502</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1683206184504</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
