@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/DailyAdviceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/DailyAdviceServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/SimpleChatClientA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/RyanAndMonicaJob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DailyAdviceClient">
+  <component name="RunManager" selected="Application.RyanAndMonicaJob">
     <configuration name="DailyAdviceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.DailyAdviceClient" />
       <module name="test" />
@@ -112,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RyanAndMonicaJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.RyanAndMonicaJob" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskRateLimitedPrinter.Test" />
       <module name="test" />
@@ -125,33 +137,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task14.task1406.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1406.Solution" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task14.task1406.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.RyanAndMonicaJob" />
       <item itemvalue="Application.DailyAdviceClient" />
       <item itemvalue="Application.DailyAdviceServer" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.com.javarush.task.pro.task14.task1406.Solution" />
       <item itemvalue="Application.Numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RyanAndMonicaJob" />
         <item itemvalue="Application.DailyAdviceClient" />
         <item itemvalue="Application.DailyAdviceServer" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.com.javarush.task.pro.task14.task1406.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -250,13 +249,7 @@
       <workItem from="1683186692848" duration="2458000" />
       <workItem from="1683202997905" duration="11819000" />
       <workItem from="1683265727095" duration="7825000" />
-    </task>
-    <task id="LOCAL-00112" summary="Load">
-      <created>1681457074935</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1681457074937</updated>
+      <workItem from="1683294131669" duration="1833000" />
     </task>
     <task id="LOCAL-00113" summary="Load">
       <created>1681718280212</created>
@@ -594,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683218936297</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Load">
+      <created>1683294255803</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1683294255805</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
