@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/RyanAndMonicaJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/RyanAndMonicaJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/SimpleChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RyanAndMonicaJob">
+  <component name="RunManager" selected="Application.SimpleChatClient">
     <configuration name="DailyAdviceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.DailyAdviceClient" />
       <module name="test" />
@@ -96,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskComplexNumbers.Numbers" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.javaYlab.taskComplexNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RyanAndMonicaJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.RyanAndMonicaJob" />
       <module name="test" />
@@ -122,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.javaYlab.taskRateLimitedPrinter.Test" />
+    <configuration name="SimpleChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.SimpleChatClient" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.javaYlab.taskRateLimitedPrinter.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleChatClientA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.SimpleChatClientA" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,18 +138,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RyanAndMonicaJob" />
+      <item itemvalue="Application.SimpleChatClient" />
+      <item itemvalue="Application.SimpleChatClientA" />
       <item itemvalue="Application.DailyAdviceClient" />
       <item itemvalue="Application.DailyAdviceServer" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleChatClient" />
+        <item itemvalue="Application.SimpleChatClientA" />
         <item itemvalue="Application.RyanAndMonicaJob" />
         <item itemvalue="Application.DailyAdviceClient" />
         <item itemvalue="Application.DailyAdviceServer" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -247,14 +248,7 @@
       <workItem from="1683186692848" duration="2458000" />
       <workItem from="1683202997905" duration="11819000" />
       <workItem from="1683265727095" duration="7825000" />
-      <workItem from="1683294131669" duration="2455000" />
-    </task>
-    <task id="LOCAL-00114" summary="Load">
-      <created>1681733525882</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1681733525883</updated>
+      <workItem from="1683294131669" duration="5283000" />
     </task>
     <task id="LOCAL-00115" summary="Load">
       <created>1681736685470</created>
@@ -592,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683295991671</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="Load">
+      <created>1683296644869</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1683296644869</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
