@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/SimpleChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Socket/VerySimpleChatServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +69,9 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleChatClient">
+  <component name="RunManager" selected="Application.VerySimpleChatServer">
     <configuration name="DailyAdviceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.DailyAdviceClient" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DailyAdviceServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.DailyAdviceServer" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -136,20 +122,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VerySimpleChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.VerySimpleChatServer" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.RyanAndMonicaJob" />
       <item itemvalue="Application.SimpleChatClient" />
       <item itemvalue="Application.SimpleChatClientA" />
+      <item itemvalue="Application.VerySimpleChatServer" />
       <item itemvalue="Application.DailyAdviceClient" />
-      <item itemvalue="Application.DailyAdviceServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VerySimpleChatServer" />
         <item itemvalue="Application.SimpleChatClient" />
         <item itemvalue="Application.SimpleChatClientA" />
         <item itemvalue="Application.RyanAndMonicaJob" />
         <item itemvalue="Application.DailyAdviceClient" />
-        <item itemvalue="Application.DailyAdviceServer" />
       </list>
     </recent_temporary>
   </component>
@@ -248,14 +247,7 @@
       <workItem from="1683186692848" duration="2458000" />
       <workItem from="1683202997905" duration="11819000" />
       <workItem from="1683265727095" duration="7825000" />
-      <workItem from="1683294131669" duration="5283000" />
-    </task>
-    <task id="LOCAL-00115" summary="Load">
-      <created>1681736685470</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1681736685470</updated>
+      <workItem from="1683294131669" duration="6309000" />
     </task>
     <task id="LOCAL-00116" summary="Load">
       <created>1681740428919</created>
@@ -593,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683296644869</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="Load">
+      <created>1683301345479</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1683301345479</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
