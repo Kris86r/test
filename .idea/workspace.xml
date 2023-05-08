@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1420/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1420/WrongAnswerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1408/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1409/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1410/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1410/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1411/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1411/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1412/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1421/Catzilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1421/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Threads/Accum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Threads/TestThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Threads/ThreadOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Threads/ThreadTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,39 +82,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task14.task1420.Solution">
-    <configuration name="SimpleChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.SimpleChatClient" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleChatClientA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.SimpleChatClientA" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1407.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1412.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task14.task1407.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1412.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerySimpleChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Socket.VerySimpleChatServer" />
+    <configuration name="TestThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Threads.TestThreads" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Socket.*" />
+          <option name="PATTERN" value="com.kris.JavaBook.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +109,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task14.task1420.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1420.Solution" />
+    <configuration name="com.javarush.task.pro.task14.task1408.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1408.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task14.task1420.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1408.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javarush.task.pro.task14.task1409.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1409.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1409.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javarush.task.pro.task14.task1410.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1410.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1410.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleChatClient" />
-      <item itemvalue="Application.SimpleChatClientA" />
+      <item itemvalue="Application.com.javarush.task.pro.task14.task1408.Solution" />
+      <item itemvalue="Application.com.javarush.task.pro.task14.task1409.Solution" />
+      <item itemvalue="Application.com.javarush.task.pro.task14.task1410.Solution" />
+      <item itemvalue="Application.TestThreads" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.VerySimpleChatServer" />
-      <item itemvalue="Application.com.javarush.task.pro.task14.task1420.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.javarush.task.pro.task14.task1420.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.VerySimpleChatServer" />
-        <item itemvalue="Application.SimpleChatClient" />
-        <item itemvalue="Application.SimpleChatClientA" />
+        <item itemvalue="Application.com.javarush.task.pro.task14.task1410.Solution" />
+        <item itemvalue="Application.com.javarush.task.pro.task14.task1409.Solution" />
+        <item itemvalue="Application.com.javarush.task.pro.task14.task1408.Solution" />
+        <item itemvalue="Application.TestThreads" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +260,9 @@
       <workItem from="1683186692848" duration="2458000" />
       <workItem from="1683202997905" duration="11819000" />
       <workItem from="1683265727095" duration="7825000" />
-      <workItem from="1683294131669" duration="7726000" />
-    </task>
-    <task id="LOCAL-00118" summary="Load">
-      <created>1681742581578</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1681742581578</updated>
+      <workItem from="1683294131669" duration="7898000" />
+      <workItem from="1683353289434" duration="2170000" />
+      <workItem from="1683559434610" duration="4946000" />
     </task>
     <task id="LOCAL-00119" summary="Load">
       <created>1681831242592</created>
@@ -594,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683302905972</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="Load">
+      <created>1683303843216</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1683303843217</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
