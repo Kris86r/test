@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1414/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task14/task1415/MyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,14 +254,7 @@
       <workItem from="1683614545636" duration="2523000" />
       <workItem from="1683646901283" duration="2135000" />
       <workItem from="1683731022876" duration="4399000" />
-      <workItem from="1683896634637" duration="2689000" />
-    </task>
-    <task id="LOCAL-00122" summary="Load">
-      <created>1682098961143</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1682098961143</updated>
+      <workItem from="1683896634637" duration="4144000" />
     </task>
     <task id="LOCAL-00123" summary="Load">
       <created>1682153884876</created>
@@ -599,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683898730155</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Load">
+      <created>1683899596836</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1683899596836</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
