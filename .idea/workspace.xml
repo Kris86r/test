@@ -70,26 +70,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task14.task1414.Solution">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task14.task1416.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1412.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.pro.task14.task1412.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task14.task1410.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1410.Solution" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task14.task1410.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.javarush.task.pro.task14.task1416.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1416.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task14.task1416.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.javarush.task.pro.task14.task1421.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task14.task1421.Solution" />
       <module name="test" />
@@ -139,17 +139,17 @@
     <list>
       <item itemvalue="Application.com.javarush.task.pro.task14.task1413.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task14.task1414.Solution" />
+      <item itemvalue="Application.com.javarush.task.pro.task14.task1416.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task14.task1421.Solution" />
-      <item itemvalue="Application.com.javarush.task.pro.task14.task1410.Solution" />
       <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task14.task1416.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1414.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1413.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task14.task1421.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task14.task1410.Solution" />
       </list>
     </recent_temporary>
   </component>
