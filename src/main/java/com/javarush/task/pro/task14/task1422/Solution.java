@@ -12,7 +12,8 @@ public class Solution {
 
     public static void printDNA() {
         for (int s = 0; s < getDNA().size(); s++) {
-            System.out.println("File name: " + getDNA().get(s)[1].getFileName() + ", Method name: " + getDNA().get(s)[1].getMethodName() + ", Line number: " + getDNA().get(s)[1].getLineNumber());
+            System.out.println("File name: " + getDNA().get(s)[1].getFileName() + ", Method name: "
+                    + getDNA().get(s)[1].getMethodName() + ", Line number: " + getDNA().get(s)[1].getLineNumber());
         }
     }
 
