@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task15/task1506/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Comparator/JukeBox5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Comparator/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/JavaBook/Comparator/SortMountains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task15/task1507/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,20 +70,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task15.task1506.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task15.task1504.Solution" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task15.task1504.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task15.task1507.Solution">
     <configuration name="SortMountains (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Comparator.SortMountains" />
       <module name="test" />
@@ -139,20 +123,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.javarush.task.pro.task15.task1507.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task15.task1507.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task15.task1507.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.com.javarush.task.pro.task15.task1507.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task15.task1506.Solution" />
       <item itemvalue="Application.SortMountains" />
       <item itemvalue="Application.SortMountains (1)" />
       <item itemvalue="Application.SortMountains (2)" />
-      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task15.task1507.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task15.task1506.Solution" />
         <item itemvalue="Application.SortMountains" />
         <item itemvalue="Application.SortMountains (2)" />
         <item itemvalue="Application.SortMountains (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -264,14 +261,7 @@
       <workItem from="1684299619223" duration="3321000" />
       <workItem from="1685523023784" duration="1043000" />
       <workItem from="1685543985138" duration="5097000" />
-      <workItem from="1685787548326" duration="2074000" />
-    </task>
-    <task id="LOCAL-00131" summary="Load">
-      <created>1682676777545</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1682676777547</updated>
+      <workItem from="1685787548326" duration="3446000" />
     </task>
     <task id="LOCAL-00132" summary="Load">
       <created>1682776523818</created>
@@ -609,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684255124590</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="Load">
+      <created>1685790005203</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1685790005205</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
