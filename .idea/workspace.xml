@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task15/task1511/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task15/task1512/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +70,13 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task15.task1507.Solution">
-    <configuration name="SortMountains (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.JavaBook.Comparator.SortMountains" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task15.task1512.Solution" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.JavaBook.Comparator.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task15.task1512.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +137,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task15.task1507.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task15.task1506.Solution" />
       <item itemvalue="Application.SortMountains" />
-      <item itemvalue="Application.SortMountains (1)" />
       <item itemvalue="Application.SortMountains (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task15.task1507.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task15.task1506.Solution" />
         <item itemvalue="Application.SortMountains" />
         <item itemvalue="Application.SortMountains (2)" />
-        <item itemvalue="Application.SortMountains (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +262,7 @@
       <workItem from="1685523023784" duration="1043000" />
       <workItem from="1685543985138" duration="5097000" />
       <workItem from="1685787548326" duration="8102000" />
-      <workItem from="1686065321366" duration="903000" />
-    </task>
-    <task id="LOCAL-00136" summary="Load">
-      <created>1682859289839</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1682859289839</updated>
+      <workItem from="1686065321366" duration="6115000" />
     </task>
     <task id="LOCAL-00137" summary="Load">
       <created>1682864909910</created>
@@ -607,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685799590784</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="Load">
+      <created>1686066389394</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1686066389396</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
