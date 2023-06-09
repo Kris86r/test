@@ -26,7 +26,6 @@ public class Solution {
 
     static void fixDate(List<Date> brokenDates) {
         Date current = new Date();
-        SimpleDateFormat formatter = new SimpleDateFormat("yyyy, MM, dd");
         for (Date date : brokenDates) {
             if (date.after(current)) {
                 date.setYear(date.getYear() - 1900);
