@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class Solution {
 
-    static Date birthDate = new Date(1990, Calendar.AUGUST, 20);
+    static Date birthDate = new Date(2023, Calendar.JUNE, 9);
 
     public static void main(String[] args) {
         System.out.println(getDayOfWeek(birthDate));
@@ -14,21 +14,16 @@ public class Solution {
 
     static String getDayOfWeek(Date date) {
         int week = date.getDay();
-        if (week == 1) {
-            return "Понедельник";
-        } else if (week == 2) {
-            return "Вторник";
-        } else if (week == 3) {
-            return "Среда";
-        } else if (week == 4) {
-            return "Четверг";
-        } else if (week == 5) {
-            return "Пятница";
-        } else if (week == 6) {
-            return "Суббота";
-        } else {
-            return "Воскресенье";
-        }
+        return switch (week) {
+            case 1 -> "Понедельник";
+            case 2 -> "Вторник";
+            case 3 -> "Среда";
+            case 4 -> "Четверг";
+            case 5 -> "Пятница";
+            case 6 -> "Суббота";
+            case 0 -> "Воскресенье";
+            default -> " ";
+        };
     }
 }
 
