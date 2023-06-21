@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task17/task1710/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,14 +281,7 @@
       <workItem from="1687180227952" duration="7220000" />
       <workItem from="1687240109353" duration="3220000" />
       <workItem from="1687264120744" duration="6370000" />
-      <workItem from="1687336507810" duration="1072000" />
-    </task>
-    <task id="LOCAL-00184" summary="Load">
-      <created>1685799590783</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1685799590784</updated>
+      <workItem from="1687336507810" duration="1740000" />
     </task>
     <task id="LOCAL-00185" summary="Load">
       <created>1686066389394</created>
@@ -628,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687337419598</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="Load">
+      <created>1687337669345</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1687337669345</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
