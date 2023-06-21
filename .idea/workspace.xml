@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task18/task1802/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task18/task1802/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/pro/task18/task1802/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -288,21 +283,7 @@
       <workItem from="1687264120744" duration="6370000" />
       <workItem from="1687336507810" duration="4850000" />
       <workItem from="1687346991119" duration="116000" />
-      <workItem from="1687362214142" duration="1019000" />
-    </task>
-    <task id="LOCAL-00193" summary="Load">
-      <created>1686206147407</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1686206147410</updated>
-    </task>
-    <task id="LOCAL-00194" summary="Load">
-      <created>1686206886883</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1686206886884</updated>
+      <workItem from="1687362214142" duration="1764000" />
     </task>
     <task id="LOCAL-00195" summary="Load">
       <created>1686208754678</created>
@@ -633,7 +614,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687362659780</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="Load">
+      <created>1687363269643</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1687363269643</updated>
+    </task>
+    <task id="LOCAL-00243" summary="Load">
+      <created>1687363549188</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1687363549188</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
