@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b245a0fd-0773-49fb-9ca6-fa2af3bb9119" name="Changes" comment="Load">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/task13/task1316/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/task13/task1317/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/task13/task1317/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/task13/task1317/WeatherType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/sandbox/DataOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javarush/task/task13/task1318/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +72,7 @@
       <recent name="com.kris.LearningJUnit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.task13.task1317.Solution">
+  <component name="RunManager" selected="Application.com.javarush.task.task13.task1318.Solution">
     <configuration name="DataOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.sandbox.DataOutputStreamExample" />
       <module name="test" />
@@ -96,19 +92,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task13.task1314.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.task13.task1312.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1312.Solution" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task13.task1312.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,20 +125,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.javarush.task.task13.task1318.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1318.Solution" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task13.task1318.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.com.javarush.task.task13.task1318.Solution" />
       <item itemvalue="Application.DataOutputStreamExample" />
       <item itemvalue="Application.com.javarush.task.task13.task1317.Solution" />
-      <item itemvalue="Application.com.javarush.task.task13.task1312.Solution" />
       <item itemvalue="Application.com.javarush.task.task13.task1314.Solution" />
       <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.task13.task1318.Solution" />
         <item itemvalue="Application.com.javarush.task.task13.task1317.Solution" />
         <item itemvalue="Application.DataOutputStreamExample" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.javarush.task.task13.task1314.Solution" />
-        <item itemvalue="Application.com.javarush.task.task13.task1312.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +303,9 @@
       <workItem from="1695200218337" duration="4316000" />
       <workItem from="1702650802599" duration="1547000" />
       <workItem from="1708852879664" duration="5447000" />
-      <workItem from="1708873447371" duration="3236000" />
-    </task>
-    <task id="LOCAL-00230" summary="Load">
-      <created>1687269745987</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1687269745987</updated>
+      <workItem from="1708873447371" duration="3746000" />
+      <workItem from="1708926410633" duration="288000" />
+      <workItem from="1708936562712" duration="7223000" />
     </task>
     <task id="LOCAL-00231" summary="Load">
       <created>1687273013374</created>
@@ -652,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708859162247</updated>
     </task>
-    <option name="localTasksCounter" value="279" />
+    <task id="LOCAL-00279" summary="Load">
+      <created>1708879224027</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1708879224029</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
